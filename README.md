@@ -54,7 +54,6 @@ With a background in **Scientific Data (PHIVOLCS)**, I apply a strict **Test-Dri
 - **Impact:** Automated the excavation of legacy GNSS data for **PHIVOLCS**.
 - **Key Tech:** Developed MD5-based duplicate detection and regex pattern matching for scientific archives.
 
-*(Note: If Washboard or Drive Archaeologist are private repositories, you can remove the links or link to a portfolio demo page instead.)*
 
 ---
 
