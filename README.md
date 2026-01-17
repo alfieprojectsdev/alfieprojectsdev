@@ -34,6 +34,7 @@ With a background in **Scientific Data (PHIVOLCS)**, I apply a strict **Test-Dri
 
 **Scientific Computing**
 - **Python 3.11+**, Bash, Fortran, GNSS Data Processing
+- Linux SysAdmin, Git/GitHub CI/CD
 
 ---
 
@@ -42,12 +43,12 @@ With a background in **Scientific Data (PHIVOLCS)**, I apply a strict **Test-Dri
 #### **[pipetgo](https://github.com/alfieprojectsdev/pipetgo)** | *B2B Laboratory Marketplace*
 *Stack: Next.js 14, TypeScript, PostgreSQL, Vitest*
 - **Impact:** Built an RFQ platform connecting businesses with ISO-certified labs.
-- **Technical:** Implemented multi-role authorization and complex three-mode pricing workflows; maintained **233 passing tests** with 90%+ coverage.
+- **Technical:** Implemented multi-role authorization and complex three-mode pricing workflows. Maintained **233 passing tests** with 90%+ coverage.
 
 #### **[Washboard](https://github.com/alfieprojectsdev/Washboard)** | *Queue Management System*
 *Stack: Next.js 14, PostgreSQL (NeonDB), Serializable Isolation*
-- **Impact:** Replaced manual paper tracking with contactless QR bookings; achieved a **94/100 security audit score**.
-- **Technical:** Designed a transaction-safe queue system using **SERIALIZABLE isolation** and cryptographically secure magic links.
+- **Impact:** Replaced manual paper tracking with contactless QR bookings.
+- **Technical:** Achieved a **94/100 security audit score** and designed transaction-safe queuing using `SERIALIZABLE` isolation.
 
 #### **[Homebase](https://github.com/alfieprojectsdev/homebase)** | *ADHD-Optimized Household Management*
 *Stack: Next.js 14, Neon Postgres, Drizzle ORM, Playwright*
@@ -59,15 +60,16 @@ With a background in **Scientific Data (PHIVOLCS)**, I apply a strict **Test-Dri
 - **Impact:** Automated the excavation of legacy GNSS data for **PHIVOLCS**.
 - **Technical:** Developed **MD5-based duplicate detection** and regex pattern matching for scientific archives.
 
+*(Note: Projects marked with generic links may be private source; please contact me for code walkthroughs.)*
 
 ---
 
 ### 📂 Open Source & Utilities
 
-Here are functional tools I have built for specific use-cases:
+Here are functional tools and apps I have built:
 
 - **[carpool-app](https://github.com/alfieprojectsdev/carpool-app):** A carpooling platform built using EJS templating.
-- **[chrome-extension-row-click-toggle](https://github.com/alfieprojectsdev/chrome-extension-row-click-toggle):** A JavaScript utility for browser automation and UI interaction.
+- **[chrome-extension-row-click-toggle](https://github.com/alfieprojectsdev/chrome-extension-row-click-toggle):** A JavaScript utility for browser automation.
 - **[ham-filename-extension](https://github.com/alfieprojectsdev/ham-filename-extension):** A filename utility tool.
 
 ---
