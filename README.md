@@ -42,17 +42,22 @@ With a background in **Scientific Data (PHIVOLCS)**, I apply a strict **Test-Dri
 #### **[pipetgo](https://github.com/alfieprojectsdev/pipetgo)** | *B2B Laboratory Marketplace*
 *Stack: Next.js 14, TypeScript, PostgreSQL, Vitest*
 - **Impact:** Built an RFQ platform connecting businesses with ISO-certified labs.
-- **Key Tech:** Implemented multi-role authorization and complex three-mode pricing workflows. Maintained **233 passing tests** with 90%+ coverage.
+- **Technical:** Implemented multi-role authorization and complex three-mode pricing workflows; maintained **233 passing tests** with 90%+ coverage.
 
 #### **[Washboard](https://github.com/alfieprojectsdev/Washboard)** | *Queue Management System*
 *Stack: Next.js 14, PostgreSQL (NeonDB), Serializable Isolation*
-- **Impact:** Replaced manual paper tracking with contactless QR bookings.
-- **Key Tech:** Achieved a **94/100 security audit score** and designed transaction-safe queuing using `SERIALIZABLE` isolation.
+- **Impact:** Replaced manual paper tracking with contactless QR bookings; achieved a **94/100 security audit score**.
+- **Technical:** Designed a transaction-safe queue system using **SERIALIZABLE isolation** and cryptographically secure magic links.
+
+#### **[Homebase](https://github.com/alfieprojectsdev/homebase)** | *ADHD-Optimized Household Management*
+*Stack: Next.js 14, Neon Postgres, Drizzle ORM, Playwright*
+- **Impact:** Mission-critical system for multi-residence bill tracking with a **100% E2E test pass rate** (32 scenarios).
+- **Technical:** Engineered an "aggressive" visual urgency system and multi-tenant data isolation using **scoped organization IDs**.
 
 #### **[Drive Archaeologist](https://github.com/alfieprojectsdev/Drive-Archaeologist)** | *Scientific Data CLI*
 *Stack: Python 3.11+, Click CLI, Pandas*
 - **Impact:** Automated the excavation of legacy GNSS data for **PHIVOLCS**.
-- **Key Tech:** Developed MD5-based duplicate detection and regex pattern matching for scientific archives.
+- **Technical:** Developed **MD5-based duplicate detection** and regex pattern matching for scientific archives.
 
 
 ---
